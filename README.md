@@ -24,6 +24,9 @@ This embedded system collects multi-dimensional environmental data for on-site f
 4. Local visual feedback via LCD + RGB backlight
 5. Serial port output all sensor data for logging and post analysis
 
+## Source File
+`pond_freshwater_monitor.ino`: Main ESP32 Arduino firmware. Contains all sensor acquisition, tilt & turbulence calculation, threshold checking and screen display logic.
+
 ## How to Compile & Upload
 Platform: Arduino IDE / PlatformIO
 Required Libraries:
