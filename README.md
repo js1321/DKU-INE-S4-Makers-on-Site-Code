@@ -9,6 +9,10 @@ This embedded system collects multi-dimensional environmental data for on-site f
 - **Light sensor**: Capture ambient light intensity
 - **RGB 1602 LCD**: Real-time local display of sensor readings and warning messages. RGB backlight turns green for normal status and red for abnormal alerts.
 
+## 3D Print
+![Appearence](https://github.com/js1321/DKU-INE-S4-Makers-on-Site-Code/blob/704a1b6a3a34a3878e6d1c153ac84323729c66ec/assests/3D_printing_boat.jpg)
+
+
 ## Hardware List
 - ESP32 DevKit
 - TDS water quality sensor (UART)
